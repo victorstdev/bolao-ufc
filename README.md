@@ -1,2 +1,2 @@
 # bolao-ufc
-Projet para um bolão do UFC
+Projeto para um bolão do UFC
